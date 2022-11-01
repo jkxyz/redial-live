@@ -1,0 +1,4 @@
+{:deps {org.clojure/clojure {:mvn/version "1.9.0"}
+        overtone/overtone {:git/url "https://github.com/overtone/overtone"
+                           :sha "c146d057a977e8fa1977d550066d6afd924949de"}
+        org.slf4j/slf4j-simple {:mvn/version "2.0.3"}}}
